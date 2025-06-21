@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @btwmasoom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Haseeb Asif
+- 👀 I’m interested in Ai based Applications
+- 🌱 I’m currently learning Programming in Ai , Mern Stack
+- 💞️ I’m looking to collaborate on ... Internsips and remote jobs
+- 📫 How to reach me ... haseebasif.edu@gmail.com
+- 😄 Pronouns: ... Haseeb Asif
+- ⚡ Fun fact: ... recently started uploading projects ... Was an Seo Analyst but now intersted in Developing. currently a student of 4th semester but making Heavy projects For Final Year Students .
+-  Studies At : Comstats University Islamabad Vehari Campus 
 
-<!---
-btwmasoom/btwmasoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
